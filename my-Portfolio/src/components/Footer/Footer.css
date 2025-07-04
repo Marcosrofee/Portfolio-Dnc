@@ -1,0 +1,11 @@
+footer{
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-social{
+    margin-top: 20px;
+}

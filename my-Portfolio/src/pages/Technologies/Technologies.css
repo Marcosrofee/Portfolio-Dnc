@@ -1,0 +1,40 @@
+.tecn-container{
+    text-align: center;
+    margin-left: 5%;
+   
+    display: flex;
+    justify-content: space-around;
+    
+}
+.services-box{
+    background-color: rgb(41, 39, 39);  
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+}
+.services-box .icon{
+    text-align: left;
+    margin: 10px;
+}
+section h5{
+    font-size: 20px;
+}
+section h2{
+    text-align: center;
+}
+section h2 span{
+    color: #03bbd3 ;
+}
+section p{
+    font-size: 12px;
+}
+.mg-top{
+    margin-top: 80px;
+}
+.tecn-containe{
+    text-align: center;
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}

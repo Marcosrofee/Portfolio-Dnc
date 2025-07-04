@@ -1,0 +1,16 @@
+header{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 180px;
+}
+header h1{
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    font-weight: 600;
+    color: rgba(255, 255, 255, 1);
+    font-family: "Poppins", sans-serif;
+}
+header button{
+    color: rgba(255, 255, 255, 1);
+}
