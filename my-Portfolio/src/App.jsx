@@ -3,11 +3,7 @@
  // import pages
  import Home from './pages/Home'
  import Technologies from './pages/Technologies/Technologies'
-import About from './pages/About/About'
-
-
-
-
+ import About from './pages/About/About'
 
  function App() {
 
